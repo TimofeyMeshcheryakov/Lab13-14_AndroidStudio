@@ -1,6 +1,5 @@
 package com.meshcheryakov.unscramblegame.ui_model
 
-import androidx.compose.runtime.MutableState
 import androidx.lifecycle.ViewModel
 import com.meshcheryakov.unscramblegame.data.GameUiState
 import com.meshcheryakov.unscramblegame.data.allWords
